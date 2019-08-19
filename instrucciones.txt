@@ -1,0 +1,10 @@
+instrucciones para LOOPBACK version 3
+** antes debe de instalar nodejs e instalar la version 3 de loopback
+
+1- escribir en una consola el comando: lb
+2- seguir los pasos, poner nombre al proyecto, elegir api rest, etc
+3- moverse a la carpeta creada con: cd carpeta
+4- crear el datasource del proyecto con el comando: lb datasource  --se pone de nombre mysql Yes conector
+5- dentro de /boot/authentication.js comentamos enable authentic
+6- creo el archivo: /boot/discover-models.js o lo copio esta junto a estas instrucciones
+y agrego la tabla con relaciones hacia las demas asi se genera automaticamente solo pongo DETALLE_ORDEN
