@@ -9,3 +9,4 @@ Se utiliza el framework Loopback 3 para este proyecto, el proyecto consta de los
 #4 las instrucciones a seguir
 
 Tambien se tiene un video en el siguiente enlace:
+https://youtu.be/Wb2StkJwW0Q
